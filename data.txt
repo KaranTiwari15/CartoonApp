@@ -1,0 +1,27 @@
+
+Examples :
+
+Get,Post--->localhost:8080/cartoons
+GetById,Delete---->localhost:8080/cartoons/id
+{
+    "carId": 102,
+     "carName": "SchinChan",
+    "hero": "SchinChan"
+}
+
+
+
+localhost:8080/cartoons/home for home page
+localhost:8080/cartoons/id
+ {
+         {
+            "carId": 1,
+            "carName": "KaranTiwari",
+            "hero": "Karan"
+          },
+          {
+            "carId": 2,
+            "carName": "Prathamesh",
+            "hero": "Patya"
+          }
+    }
